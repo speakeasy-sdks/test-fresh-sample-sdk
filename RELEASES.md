@@ -89,3 +89,13 @@ Based on:
 - [go v0.3.2] .
 ### Releases
 - [Go v0.3.2] https://github.com/speakeasy-sdks/test-fresh-sample-sdk/releases/tag/v0.3.2 - .
+
+## 2024-01-19 00:32:45
+### Changes
+Based on:
+- OpenAPI Doc 1.0.0 
+- Speakeasy CLI 1.147.0 (2.237.2) https://github.com/speakeasy-api/speakeasy
+### Generated
+- [go v0.3.2] .
+### Releases
+- [Go v0.3.2] https://github.com/speakeasy-sdks/test-fresh-sample-sdk/releases/tag/v0.3.2 - .
