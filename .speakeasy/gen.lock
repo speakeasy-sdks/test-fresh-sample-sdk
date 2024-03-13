@@ -3,10 +3,10 @@ id: dc5e11c8-68a6-4e1f-b3e9-905ce41659cf
 management:
   docChecksum: 21c25ca8a734b4fb704e98d966524ee0
   docVersion: 1.0.0
-  speakeasyVersion: 1.204.1
-  generationVersion: 2.279.1
-  releaseVersion: 0.6.0
-  configChecksum: 2395c3c618e644e00752d976779cfcdf
+  speakeasyVersion: 1.207.1
+  generationVersion: 2.280.6
+  releaseVersion: 0.6.1
+  configChecksum: 494b46d755372303ece8f3eacb854972
   repoURL: https://github.com/speakeasy-sdks/test-fresh-sample-sdk.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/test-fresh-sample-sdk
@@ -15,7 +15,7 @@ features:
   go:
     core: 3.4.4
     flattening: 2.81.1
-    globalServerURLs: 2.82.1
+    globalServerURLs: 2.82.2
     responseFormat: 0.1.0
 generatedFiles:
   - pets.go
